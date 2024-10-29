@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+mayorista.mientretenimiento.com	TRUE	/	FALSE	1999999999	UID	MKJxwK6PRDDO3KaxBomT1odeUvep9dwc
+mayorista.mientretenimiento.com	TRUE	/	FALSE	1999999999	mientretenimiento_IEE	s%3AMKJxwK6PRDDO3KaxBomT1odeUvep9dwc.krm%2FuYNTe6EYv0zOXpD4BfxJIZ6fZEh%2BWs5S4Jbogjs
+
